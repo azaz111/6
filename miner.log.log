@@ -1,0 +1,169 @@
+time
+time="2022-01-23T16:48:37Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=30822
+time="2022-01-23T16:48:40Z" level=warning msg="scanner timeout" consume=11397 file=loggers.go func=logging.CPrint line=162 tid=30820
+time="2022-01-23T16:48:40Z" level=warning msg="scanner timeout" consume=11403 file=loggers.go func=logging.CPrint line=162 tid=30828
+time="2022-01-23T16:48:40Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova93/93-1.d/ scan limit=10000 scan time=10144 tid=25613
+time="2022-01-23T16:48:40Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova100/100-1.d/ scan limit=10000 scan time=10109 tid=25613
+time="2022-01-23T16:48:40Z" level=info msg="new mining info" capacity="95.26 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463332 jobId=3329483366 line=168 scan consume=10144 scan time="2022-01-23 16:48:19" tid=25613
+time="2022-01-23T16:48:40Z" level=error msg="Your scan time (10.14s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:48:41Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:48:41Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=30821
+time="2022-01-23T16:48:41Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=30821
+time="2022-01-23T16:48:42Z" level=warning msg="scanner timeout" consume=1500 file=loggers.go func=logging.CPrint line=162 tag=prove tid=10
+time="2022-01-23T16:48:43Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:48:43Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:48:44Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=30829
+time="2022-01-23T16:48:46Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=30850
+time="2022-01-23T16:48:47Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova93/93-1.d/ scan limit=10000 scan time=10144 tid=25613
+time="2022-01-23T16:48:47Z" level=info msg="new mining info" capacity="137.35 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463333 jobId=2335154941 line=168 scan consume=10144 scan time="2022-01-23 16:48:37" tid=25613
+time="2022-01-23T16:48:47Z" level=error msg="Your scan time (10.14s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:48:50Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:48:50Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:48:51Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:48:52Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:48:54Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=30890
+time="2022-01-23T16:48:55Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova93/93-1.d/ scan limit=10000 scan time=10144 tid=25613
+time="2022-01-23T16:48:55Z" level=info msg="new mining info" capacity="137.35 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463333 jobId=508914431 line=168 scan consume=10144 scan time="2022-01-23 16:48:51" tid=25613
+time="2022-01-23T16:48:55Z" level=error msg="Your scan time (10.14s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:48:58Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:02Z" level=warning msg="scanner timeout" consume=1500 file=loggers.go func=logging.CPrint line=162 tag=prove tid=10
+time="2022-01-23T16:49:04Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova93/93-1.d/ scan limit=10000 scan time=10144 tid=25613
+time="2022-01-23T16:49:04Z" level=info msg="new mining info" capacity="137.35 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463334 jobId=1874045636 line=168 scan consume=10144 scan time="2022-01-23 16:48:55" tid=25613
+time="2022-01-23T16:49:04Z" level=error msg="Your scan time (10.14s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:49:12Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:13Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:13Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=30934
+time="2022-01-23T16:49:13Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=30934
+time="2022-01-23T16:49:14Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=30941
+time="2022-01-23T16:49:14Z" level=warning msg="scanner timeout" consume=10002 file=loggers.go func=logging.CPrint line=162 tid=30936
+time="2022-01-23T16:49:14Z" level=warning msg="scanner timeout" consume=10002 file=loggers.go func=logging.CPrint line=162 tid=30930
+time="2022-01-23T16:49:14Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:14Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova92/92-1.d/ scan limit=10000 scan time=10193 tid=25613
+time="2022-01-23T16:49:14Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova93/93-1.d/ scan limit=10000 scan time=10641 tid=25613
+time="2022-01-23T16:49:14Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova100/100-1.d/ scan limit=10000 scan time=10014 tid=25613
+time="2022-01-23T16:49:14Z" level=info msg="new mining info" capacity="47.83 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463335 jobId=3026953737 line=168 scan consume=10641 scan time="2022-01-23 16:48:55" tid=25613
+time="2022-01-23T16:49:14Z" level=error msg="Your scan time (10.64s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:49:14Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:15Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:16Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:17Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:17Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:19Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=30969
+time="2022-01-23T16:49:21Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:22Z" level=warning msg="scanner timeout" consume=1500 file=loggers.go func=logging.CPrint line=162 tag=prove tid=10
+time="2022-01-23T16:49:24Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova92/92-1.d/ scan limit=10000 scan time=10193 tid=25613
+time="2022-01-23T16:49:24Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova100/100-1.d/ scan limit=10000 scan time=10014 tid=25613
+time="2022-01-23T16:49:24Z" level=info msg="new mining info" capacity="90.51 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463335 jobId=4276213965 line=168 scan consume=10193 scan time="2022-01-23 16:49:15" tid=25613
+time="2022-01-23T16:49:24Z" level=error msg="Your scan time (10.19s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:49:32Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:33Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova92/92-1.d/ scan limit=10000 scan time=10193 tid=25613
+time="2022-01-23T16:49:33Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova100/100-1.d/ scan limit=10000 scan time=10014 tid=25613
+time="2022-01-23T16:49:33Z" level=info msg="new mining info" capacity="90.61 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463337 jobId=499995893 line=168 scan consume=10193 scan time="2022-01-23 16:49:24" tid=25613
+time="2022-01-23T16:49:33Z" level=error msg="Your scan time (10.19s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:49:39Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31013
+time="2022-01-23T16:49:41Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31018
+time="2022-01-23T16:49:42Z" level=warning msg="scanner timeout" consume=1500 file=loggers.go func=logging.CPrint line=162 tag=prove tid=10
+time="2022-01-23T16:49:43Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova100/100-1.d/ scan limit=10000 scan time=10014 tid=25613
+time="2022-01-23T16:49:43Z" level=info msg="new mining info" capacity="138.14 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463337 jobId=2262745595 line=168 scan consume=10014 scan time="2022-01-23 16:49:34" tid=25613
+time="2022-01-23T16:49:43Z" level=error msg="Your scan time (10.01s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:49:43Z" level=warning msg="scanner timeout" consume=10001 file=loggers.go func=logging.CPrint line=162 tid=31012
+time="2022-01-23T16:49:43Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31014
+time="2022-01-23T16:49:44Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:45Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:47Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31043
+time="2022-01-23T16:49:47Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:48Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31053
+time="2022-01-23T16:49:48Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31042
+time="2022-01-23T16:49:48Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:49Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31040
+time="2022-01-23T16:49:50Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:51Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31041
+time="2022-01-23T16:49:53Z" level=warning msg="scanner timeout" consume=10001 file=loggers.go func=logging.CPrint line=162 tid=31048
+time="2022-01-23T16:49:53Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova92/92-1.d/ scan limit=10000 scan time=10436 tid=25613
+time="2022-01-23T16:49:53Z" level=info msg="new mining info" capacity="132.99 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463339 jobId=1498595680 line=168 scan consume=10436 scan time="2022-01-23 16:49:41" tid=25613
+time="2022-01-23T16:49:53Z" level=error msg="Your scan time (10.44s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:49:54Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:56Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:49:59Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31082
+time="2022-01-23T16:50:01Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31076
+time="2022-01-23T16:50:01Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova92/92-1.d/ scan limit=10000 scan time=10416 tid=25613
+time="2022-01-23T16:50:01Z" level=info msg="new mining info" capacity="132.99 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463339 jobId=464448355 line=168 scan consume=10416 scan time="2022-01-23 16:49:58" tid=25613
+time="2022-01-23T16:50:01Z" level=error msg="Your scan time (10.42s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:50:02Z" level=warning msg="scanner timeout" consume=1500 file=loggers.go func=logging.CPrint line=162 tag=prove tid=10
+time="2022-01-23T16:50:12Z" level=info msg="new mining info" capacity="180.72 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463339 jobId=347862859 line=168 scan consume=9996 scan time="2022-01-23 16:50:01" tid=25613
+time="2022-01-23T16:50:16Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:19Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:20Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:20Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:21Z" level=info msg="new mining info" capacity="180.82 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463339 jobId=793072997 line=168 scan consume=9996 scan time="2022-01-23 16:50:21" tid=25613
+time="2022-01-23T16:50:22Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:22Z" level=warning msg="scanner timeout" consume=1500 file=loggers.go func=logging.CPrint line=162 tag=prove tid=10
+time="2022-01-23T16:50:22Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:24Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:26Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:27Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:29Z" level=info msg="new mining info" capacity="180.82 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463341 jobId=26613108 line=168 scan consume=9996 scan time="2022-01-23 16:50:21" tid=25613
+time="2022-01-23T16:50:33Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:34Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31171
+time="2022-01-23T16:50:36Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:38Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:38Z" level=info msg="new mining info" capacity="180.92 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463341 jobId=56362461 line=168 scan consume=9996 scan time="2022-01-23 16:50:21" tid=25613
+time="2022-01-23T16:50:39Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31170
+time="2022-01-23T16:50:42Z" level=warning msg="scanner timeout" consume=1500 file=loggers.go func=logging.CPrint line=162 tag=prove tid=10
+time="2022-01-23T16:50:47Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31196
+time="2022-01-23T16:50:47Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova100/100-1.d/ scan limit=10000 scan time=10290 tid=25613
+time="2022-01-23T16:50:47Z" level=info msg="new mining info" capacity="139.03 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463341 jobId=54265641 line=168 scan consume=10290 scan time="2022-01-23 16:50:38" tid=25613
+time="2022-01-23T16:50:47Z" level=error msg="Your scan time (10.29s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:50:52Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31226
+time="2022-01-23T16:50:53Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:50:57Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31220
+time="2022-01-23T16:50:57Z" level=warning msg="scanner timeout" consume=10001 file=loggers.go func=logging.CPrint line=162 tid=31224
+time="2022-01-23T16:50:57Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova92/92-1.d/ scan limit=10000 scan time=10263 tid=25613
+time="2022-01-23T16:50:57Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova100/100-1.d/ scan limit=10000 scan time=10719 tid=25613
+time="2022-01-23T16:50:57Z" level=info msg="new mining info" capacity="91.79 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463341 jobId=3030853216 line=168 scan consume=10719 scan time="2022-01-23 16:50:47" tid=25613
+time="2022-01-23T16:50:57Z" level=error msg="Your scan time (10.72s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:51:00Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31225
+time="2022-01-23T16:51:00Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31225
+time="2022-01-23T16:51:00Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31225
+time="2022-01-23T16:51:00Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31225
+time="2022-01-23T16:51:02Z" level=warning msg="scanner timeout" consume=1500 file=loggers.go func=logging.CPrint line=162 tag=prove tid=10
+time="2022-01-23T16:51:02Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31249
+time="2022-01-23T16:51:02Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31248
+time="2022-01-23T16:51:06Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:51:06Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova92/92-1.d/ scan limit=10000 scan time=10263 tid=25613
+time="2022-01-23T16:51:06Z" level=info msg="new mining info" capacity="133.98 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463342 jobId=3336008558 line=168 scan consume=10263 scan time="2022-01-23 16:50:57" tid=25613
+time="2022-01-23T16:51:06Z" level=error msg="Your scan time (10.26s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:51:09Z" level=info msg="upload status" file=loggers.go func=logging.CPrint interval=180 line=168 pre upload time="2022-01-23 16:48:09" tid=31302
+time="2022-01-23T16:51:12Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31279
+time="2022-01-23T16:51:14Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31285
+time="2022-01-23T16:51:15Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova92/92-1.d/ scan limit=10000 scan time=10259 tid=25613
+time="2022-01-23T16:51:15Z" level=info msg="new mining info" capacity="134.18 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463342 jobId=4188263200 line=168 scan consume=10259 scan time="2022-01-23 16:51:06" tid=25613
+time="2022-01-23T16:51:15Z" level=error msg="Your scan time (10.26s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:51:16Z" level=warning msg="scanner timeout" consume=10001 file=loggers.go func=logging.CPrint line=162 tid=31287
+time="2022-01-23T16:51:16Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:51:18Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31288
+time="2022-01-23T16:51:18Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31288
+time="2022-01-23T16:51:18Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31288
+time="2022-01-23T16:51:19Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31316
+time="2022-01-23T16:51:20Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:51:21Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31314
+time="2022-01-23T16:51:22Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31306
+time="2022-01-23T16:51:22Z" level=warning msg="scanner timeout" consume=1500 file=loggers.go func=logging.CPrint line=162 tag=prove tid=10
+time="2022-01-23T16:51:24Z" level=info msg="new mining info" capacity="181.71 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463342 jobId=3558132992 line=168 scan consume=9418 scan time="2022-01-23 16:51:15" tid=25613
+time="2022-01-23T16:51:30Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:51:31Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31343
+time="2022-01-23T16:51:31Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31344
+time="2022-01-23T16:51:33Z" level=info msg="new mining info" capacity="181.71 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463342 jobId=728246032 line=168 scan consume=9418 scan time="2022-01-23 16:51:21" tid=25613
+time="2022-01-23T16:51:33Z" level=warning msg="scanner timeout" consume=10000 file=loggers.go func=logging.CPrint line=162 tid=31346
+time="2022-01-23T16:51:33Z" level=warning msg="scanner timeout" consume=10001 file=loggers.go func=logging.CPrint line=162 tid=31351
+time="2022-01-23T16:51:34Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31352
+time="2022-01-23T16:51:34Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31352
+time="2022-01-23T16:51:38Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31349
+time="2022-01-23T16:51:38Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:51:38Z" level=info msg="submit nonce" file=loggers.go func=logging.CPrint line=168 tid=31371
+time="2022-01-23T16:51:41Z" level=error msg="Scan timeout" f7="{loggers.go,logging.CPrint,156}" f8="{miner.go,chia.(*Miner).MinerStatus,266}" f9="{wrapper_miner.go,miner.(*Wrapper).Start.func3,187}" path=/osnova92/92-1.d/ scan limit=10000 scan time=10153 tid=25613
+time="2022-01-23T16:51:42Z" level=info msg="new mining info" capacity="134.37 TB" chain=Chia file=loggers.go func=logging.CPrint height=1463342 jobId=4134179279 line=168 scan consume=10153 scan time="2022-01-23 16:51:21" tid=25613
+time="2022-01-23T16:51:42Z" level=error msg="Your scan time (10.15s) exceeds the maximum time limit (10.00s)" f7="{loggers.go,logging.CPrint,156}" f8="{wrapper_miner.go,miner.(*Wrapper).Start.func3,196}" f9="{server.go,server.(*Server).MiningInfo,37}" tid=25613
+time="2022-01-23T16:51:42Z" level=warning msg="scanner timeout" consume=1500 file=loggers.go func=logging.CPrint line=162 tag=prove tid=10
+time="2022-01-23T16:51:43Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
+time="2022-01-23T16:51:46Z" level=error msg="submission timed out" f7="{loggers.go,logging.CPrint,156}" f8="{server.go,websocket.(*Server).connect.func1,218}" f9="{asm_amd64.s,runtime.goexit,1371}" tid=25613
